@@ -1,0 +1,20 @@
+{
+  "name": "node-webapplication",
+  "version": "1.0.0",
+  "description": "first application with node js and mangodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "himanshu-anandani",
+  "license": "ISC",
+  "dependencies": {
+    "const": "^1.0.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19",
+    "mongoose-currency": "^0.2.0",
+    "morgan": "^1.9.1"
+  }
+}
